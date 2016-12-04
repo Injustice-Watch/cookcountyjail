@@ -8,6 +8,6 @@ ehthumbs.db
 Thumbs.db
 
 # Jupyter notebook checkpoints #
-.ipynb_checkpoint
+.ipynb_checkpoints
 __pycache__
 
