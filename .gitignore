@@ -13,3 +13,8 @@ Thumbs.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Jupyter notebook checkpoints #
+.ipynb_checkpoint
+__pycache__
+
